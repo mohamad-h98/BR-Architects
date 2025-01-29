@@ -1,0 +1,47 @@
+.navbar{
+    background-color: white;
+
+}
+.navbar-nav{
+    margin-left: auto !important;
+}
+.navbar-nav a, .navbar-brand {
+    font-weight: 500;
+    font-size: 18px;
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
+.navbar a:hover{
+    background-color: darkgrey;
+}
+.h22{
+    color: #fff !important;
+    font-size: 36px !important;
+}
+.br{
+    background-color:#000;
+    opacity: 0.75;
+    padding: 5px;
+    display: inline-block;
+}
+.position-relative{
+    margin-bottom: 10px;
+}
+.imageOne{
+    background-color: #000;
+    color: white;
+    padding: 5px 10px;
+}
+.a_footer{
+    color: #FFF;
+}
+.a_footer:hover{
+    color: rgb(46, 140, 228);
+}
+footer{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #000;
+    color: white;
+}
